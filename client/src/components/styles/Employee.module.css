@@ -1,0 +1,38 @@
+.form {
+  height: 500px;
+}
+
+.basic {
+  margin-bottom: 0.1rem;
+}
+
+.address {
+  margin-top: 1rem;
+  margin-bottom: 0.1rem;
+}
+
+.role {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.form > button {
+  margin-top: 2rem;
+}
+
+.add {
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.import {
+  margin-bottom: 1rem;
+}
+
+.employeeTable {
+  text-align: center;
+}
+
+.action {
+  margin: 0.2rem;
+}
