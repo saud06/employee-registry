@@ -5,8 +5,8 @@ An employee registry app built with MERN stack
 - Install the client and server packages using <code>npm install</code>
 - Run the client using <code>npm install</code>. (You have to be in the right path for client: <code>..cd/client</code>)
 - Run the server using <code>nodemon</code> (It's in the root path)
-- App runs in: <code>http://localhost/3000</code>
-- API / server runs in: <code>http://localhost/5000</code>
+- App runs at: <code>http://localhost/3000</code>
+- API / server runs at: <code>http://localhost/5000</code>
 
 ## .env file
 I have provided the <code>.env</code> file as well. Change the credentials according to yours one
